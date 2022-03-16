@@ -1,7 +1,7 @@
 {
-  "name": "azjfeng-boke",
+  "name": "les-code-drag",
   "version": "1.0.0",
-  "description": "boke",
+  "description": "les-code-drag",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
